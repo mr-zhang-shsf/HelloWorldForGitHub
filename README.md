@@ -1,4 +1,4 @@
-# HelloWorldForGitHub
+# Hello World For GitHub
 A test for new repository
 this is my first project in GitHub.
 I use it to practice my skill on use GitHub
